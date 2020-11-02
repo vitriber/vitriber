@@ -1,9 +1,10 @@
 ## Hi there 👋, I'm Vitor Ribeiro
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitriber&show_icons=true&bg_color=FFF&text_color=000&title_color=14274e&icon_color=000000)
+
 [![Gmail Badge](https://img.shields.io/badge/-vit.riber1@gmail.com-6633cc?style=flat-square&logo=Gmail&1&color=14274e&logoColor=FFF&link=mailto:vit.riber1@gmail.com)](mailto:vit.riber1@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Ribeiro-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/vitor-ribeiro98/)](https://www.linkedin.com/in/vitor-ribeiro98/)
 
-<img src="http://www.lowgif.com/8ece144fb3990ade.html][IMG]http://cdn.lowgif.com/full/8ece144fb3990ade-monday-morning-by-alex-kunchevsky-dribbble.gif" width="300" align="right">
+<img src="http://cdn.lowgif.com/full/8ece144fb3990ade-monday-morning-by-alex-kunchevsky-dribbble.gif" width="300" align="right">
 
  ### A student and beginner fullstack-developer
 
