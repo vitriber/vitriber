@@ -6,7 +6,7 @@
 
 <img src="http://cdn.lowgif.com/full/8ece144fb3990ade-monday-morning-by-alex-kunchevsky-dribbble.gif" width="300" align="right">
 
- ### A student and beginner fullstack-developer
+ ### A student and fullstack-developer
 
  - 🤝 I'm alvailable for new connections and projects
  - 🌱 I’m currently learning **JS tools (Node, React, Angular, React Native)** and **C# tools (.NET, MVC Core)**
